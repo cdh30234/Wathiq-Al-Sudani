@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 841.9 595.3">
+  <defs>
+    <style>
+      .logo-light {
+        fill: #ffffff;
+      }
+    </style>
+  </defs>
+  <!-- نظام إدارة الطلاب - للوضع الداكن -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path class="logo-light" d="M607.6,216.2v-20.6H234.2v161h203.7v-76.2h-34v42.2h-51.2v-42.2h-75.9v42.2h-8.5v-92.9h305.3v136H234.2v34h373.4v-183.4h0ZM310.8,314.4h7.9v8.2h-7.9v-8.2Z"/>
+        <path class="logo-light" d="M488.9,238.2v76.2h42.4v8.2h-42.4v34h76.4v-118.4h-76.4ZM522.9,280.4v-8.2h8.3v8.2h-8.3Z"/>
+        <rect class="logo-light" x="446.5" y="238" width="34" height="118.6"/>
+        <polygon class="logo-light" points="437.9 238.3 437.9 272.3 395.8 272.3 395.8 314.5 361.8 314.5 361.8 238.3 437.9 238.3"/>
+        <rect class="logo-light" x="319" y="238.1" width="34" height="34"/>
+        <rect class="logo-light" x="276.8" y="238.4" width="34" height="34"/>
+      </g>
+    </g>
+  </g>
+</svg>
